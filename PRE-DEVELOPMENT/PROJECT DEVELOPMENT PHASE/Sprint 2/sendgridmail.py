@@ -8,7 +8,7 @@ from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
 
 def sendmail(usermail,subject,content):
-    message = Mail(from_email='maryada@student.tce.edu',to_emails=usermail,subject=subject,html_content='<strong> {} </strong>'.format(content))
+    message = Mail(from_email='bsoundarya2001@gmail.com',to_emails=usermail,subject=subject,html_content='<strong> {} </strong>'.format(content))
     try:
         sg = SendGridAPIClient(os.getenv('SENDGRID_API_KEY'))
         response = sg.send(message)
