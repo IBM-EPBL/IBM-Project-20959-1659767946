@@ -26,6 +26,6 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
  PROJECT DEVELOPMENT  <br><br><br>
  <br>
  <br>
- <img src="https://media.tenor.com/ZrFooc6A9ysAAAAM/goodgoodgeneral-mental-health.gif" width="500" height="300">
+ <img src="https://media3.giphy.com/media/h2ORVK02QhsBrGMYaU/200w.gif?cid=6c09b952736wopxwunc4rqlysekcoma7aovswz49ao8jhz6q&rid=200w.gif&ct=g" width="500" height="300">
  
 
